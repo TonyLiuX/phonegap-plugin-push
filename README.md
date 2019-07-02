@@ -1,6 +1,7 @@
 # phonegap-plugin-push [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-push.svg)](https://travis-ci.org/phonegap/phonegap-plugin-push)
 
 > Register and receive push notifications
+> 解决ios10推送
 
 # Warning
 
